@@ -22095,4 +22095,8 @@
     "quote": "I think people don't realise that running a piece of code that verifies some conditions for a financial transaction, that by itself is a lot less work than verifying a cryptographic signature, and so even if the virtual machine is inefficient, the cryptographic signature is still going to dominate.",
     "author": "Vitalik Buterin"
   }
+  {
+     "quote": "I suppose leadership at one time meant muscles, but today it means getting along with people.",
+     "author": "Mahatma Gandhi"
+  }
 ]
